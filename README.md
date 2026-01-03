@@ -1,4 +1,4 @@
-#ML API – Crowd & Panic Intelligence Service
+## ML API – Crowd & Panic Intelligence Service
 A **production-ready Machine Learning API** that serves real-time predictions for **crowd load, panic indicators, and risk signals**.  
 Designed to seamlessly integrate with websites, dashboards, and surveillance systems.
 
