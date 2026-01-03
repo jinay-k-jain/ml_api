@@ -50,6 +50,7 @@ MongoDB (Actuals + Logs)
 ---
 
 ## Project Structure
+
 ml_api/
 ├── app.py
 ├── test_clean_encoded_2.csv
@@ -58,10 +59,11 @@ ml_api/
 │ └── scalers.pkl
 ├── requirements.txt
 └── README.md
+
 ---
 ## Installation
 ```bash
-git clone https://github.com/your-username/ml_api.git
+git clone https://github.com/jinay-k-jain/ml_api.git
 cd ml_api
 python -m venv venv
 source venv/bin/activate
